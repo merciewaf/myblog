@@ -1,0 +1,2 @@
+# myblog
+I love Django
